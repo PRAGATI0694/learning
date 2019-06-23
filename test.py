@@ -2,7 +2,7 @@ import os
 import sys
 
 def main():
-	print('Hello World!')
+	print('Shut up!')
 
 if __name == '__main__'
 	main()
